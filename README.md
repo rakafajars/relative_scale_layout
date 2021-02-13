@@ -1,16 +1,10 @@
 # responsive_layout
 
-A new Flutter project.
+## Resolution 720 x 1280 piksel Real Device
+![Screenshot 2021-02-13 181316](https://user-images.githubusercontent.com/73903697/107849208-5ba3a600-6e2c-11eb-8bc5-f85e296f9cf0.png)
 
-## Getting Started
+## Resolution 1080 x 2560 piksel Emulator
+![Uploading Screenshot 2021-02-13 182240.png…]()
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Resolution 1440 x 2560 piksel Emulator
+![Screenshot 2021-02-13 184558](https://user-images.githubusercontent.com/73903697/107849236-8130af80-6e2c-11eb-9684-58a9192aa585.png)
